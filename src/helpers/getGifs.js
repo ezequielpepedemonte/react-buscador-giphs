@@ -9,3 +9,4 @@ export const getGifs = async (category) => {
   }));
   return gifs;
 };
+//A ver si se guardó
